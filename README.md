@@ -1,22 +1,20 @@
 # 👋 Hi there, I'm Fatima-Zahra!
 
 Welcome to my corner of the internet 👨‍💻  
-I'm a Moroccan Tech passionate about software development, data science, Web development, and a languages learner.
+I'm a Moroccan Tech passionate.
 
 ---
 
 ## 💼 About Me
 
 - 🔭 I’m currently working on: WEb project. 
-- 🌱 I’m currently learning: languages (english, spanish, italian, and russian) , web development, Css designe, SQL, Python, and javaskript.
+- 🌱 I’m currently learning: languages (english, spanish, italian, and russian) , 🐍 Python | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | 🗄 MySQL
 - 💬 Ask me about: Web development, my project and gols.
 - 📫 How to reach me: ouihdanafatimazahra@gmail.com.
-- ⚡ Fun fact: I am married.
+- ⚡ Fun fact: I still get some help from AI resources.
 -  🤔 I’m looking for help with Database and SQL.
 
 ---
-
-
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github.com/faty-eng/faty-eng/new/main?readme=1)
@@ -33,5 +31,9 @@ I'm a Moroccan Tech passionate about software development, data science, Web dev
 
 > *"You create your success, so work hard and make your dreams alive, i know we all can do this."*
 ## Hi there 👋
+
+## 🏆 Achievements & Milestones
+🎓 Joined Power Learn Project Scholarship
+
 
 
