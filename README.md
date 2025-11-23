@@ -24,8 +24,8 @@ I'm a passionate web developer from Morocco, driven by the excitement of buildin
 
 ## 📬 Connect with Me  
 - 📧 Email: ouihdanafatimazahra@gmail.com  
-- 🔗 LinkedIn: [[Your LinkedIn Profile](#)](https://www.linkedin.com/in/fatima-zahra-010622375/)  
-- 📸 Instagram: [[@your_handle](#)](https://www.instagram.com/fa.timazahra5114/)  
+- 🔗 LinkedIn:(https://www.linkedin.com/in/fatima-zahra-010622375/)  
+- 📸 Instagram: (https://www.instagram.com/fa.timazahra5114/)  
 - 🌐 Portfolio: [faty-eng.github.io](https://faty-eng.github.io)  
 
 ---
